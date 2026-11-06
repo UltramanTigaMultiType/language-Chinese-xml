@@ -1,1 +1,1 @@
-# language-Chinese-xml
+此仓库专门用来存放我汉化后的xml文件
