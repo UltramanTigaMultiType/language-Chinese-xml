@@ -1,1 +1,1201 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_7f040000">
+        <item>Allow AI Mode integrations.</item>
+        <item>Do not allow AI Mode integrations.</item>
+    </string-array>
+    <string-array name="array_7f040001">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="array_7f040002">
+        <item>Do not uppercase request methods except for DELETE/GET/HEAD/OPTIONS/POST/PUT</item>
+        <item>Always uppercase request methods</item>
+    </string-array>
+    <string-array name="array_7f040003">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040004">
+        <item>Allow Accessibility Performance Filtering to be used.</item>
+        <item>Disallow Accessibility Performance Filtering to be used.</item>
+    </string-array>
+    <string-array name="array_7f040005">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040006">
+        <item>Allow additional DNS query types</item>
+        <item>Prevent additional DNS query types</item>
+    </string-array>
+    <string-array name="array_7f040007">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040008">
+        <item>Allow ads on all sites</item>
+        <item>Do not allow ads on sites with intrusive ads</item>
+    </string-array>
+    <string-array name="array_7f040009">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f04000a">
+        <item>Allow pages with Cache-Control: no-store header to be stored in back/forward cache.</item>
+        <item>Disallow pages with Cache-Control: no-store header to be stored in back/forward cache.</item>
+    </string-array>
+    <string-array name="array_7f04000b">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04000c">
+        <item>Allow file selection dialogs</item>
+        <item>Prevent file selection dialogs</item>
+    </string-array>
+    <string-array name="array_7f04000d">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04000e">
+        <item>Allow socket pool randomization for proxies</item>
+        <item>Prevent socket pool randomization for proxies</item>
+    </string-array>
+    <string-array name="array_7f04000f">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040010">
+        <item>Allow WebAuthn API requests on sites with broken TLS certificates.</item>
+        <item>Do not allow WebAuthn API requests on sites with broken TLS certificates.</item>
+    </string-array>
+    <string-array name="array_7f040011">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040012">
+        <item>Enable alternate error pages</item>
+        <item>Disable alternate error pages</item>
+        <item>Allow the user to decide</item>
+    </string-array>
+    <string-array name="array_7f040013">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="array_7f040014">
+        <item>Disable Microsoft® cloud authentication</item>
+        <item>Enable Microsoft® cloud authentication</item>
+    </string-array>
+    <string-array name="array_7f040015">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="array_7f040016">
+        <item>Allow the App Store Rating promo to be displayed</item>
+        <item>Do not allow the App Store Rating promo to be displayed</item>
+    </string-array>
+    <string-array name="array_7f040017">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040018">
+        <item>Allow generative AI features in Autofill and improve AI models.</item>
+        <item>Allow generative AI features in Autofill without improving AI models.</item>
+        <item>Do not allow generative AI features in Autofill.</item>
+    </string-array>
+    <string-array name="array_7f040019">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f04001a">
+        <item>Allow Chrome to autoplay media</item>
+        <item>Do not allow Chrome to autoplay media</item>
+        <item>Do not allow Chrome to autoplay media unless the URL is specified in the AutoplayAllowlist policy</item>
+    </string-array>
+    <string-array name="array_7f04001b">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="array_7f04001c">
+        <item>Allow the back-forward cache to be used</item>
+        <item>Do not allow the back-forward cache to be used</item>
+    </string-array>
+    <string-array name="array_7f04001d">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04001e">
+        <item>Block installation of external extensions</item>
+        <item>Allow installation of external extensions</item>
+    </string-array>
+    <string-array name="array_7f04001f">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040020">
+        <item>Block 3rd party cookies</item>
+        <item>Allow 3rd party cookies</item>
+        <item>Allow 3rd party cookies, but allow the user to change this setting</item>
+    </string-array>
+    <string-array name="array_7f040021">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="array_7f040022">
+        <item>Enable bookmark bar</item>
+        <item>Disable bookmark bar</item>
+        <item>Allow the user to decide</item>
+    </string-array>
+    <string-array name="array_7f040023">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="array_7f040024">
+        <item>Disable browser sign-in</item>
+        <item>Enable browser sign-in</item>
+        <item>Force users to sign-in to use the browser</item>
+    </string-array>
+    <string-array name="array_7f040025">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f040026">
+        <item>Always use the built-in DNS client</item>
+        <item>Never use the built-in DNS client</item>
+        <item>Always use the built-in DNS client</item>
+    </string-array>
+    <string-array name="array_7f040027">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="array_7f040028">
+        <item>Import user-added TLS server certificates from platform trust stores.</item>
+        <item>Do not import user-added TLS server certificates from platform trust stores.</item>
+    </string-array>
+    <string-array name="array_7f040029">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04002a">
+        <item>Support CORS non-wildcard request headers.</item>
+        <item>Do not support CORS non-wildcard request headers.</item>
+    </string-array>
+    <string-array name="array_7f04002b">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04002c">
+        <item>Allow use of the Chrome for Testing</item>
+        <item>Do not allow use of the Chrome for Testing</item>
+    </string-array>
+    <string-array name="array_7f04002d">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04002e">
+        <item>Enable all variations</item>
+        <item>Enable variations concerning critical fixes only</item>
+        <item>Disable all variations</item>
+    </string-array>
+    <string-array name="array_7f04002f">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f040030">
+        <item>Cloud machine policies take precedence over platform machine policies</item>
+        <item>Platform machine policies take precedence over cloud machine policies</item>
+    </string-array>
+    <string-array name="array_7f040031">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040032">
+        <item>Enable merging of user-level cloud policies.</item>
+        <item>Disable merging of user-level cloud policies.</item>
+    </string-array>
+    <string-array name="array_7f040033">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040034">
+        <item>Allow user cloud policies to override machine cloud policies.</item>
+        <item>Prevent user cloud policies from overriding machine cloud policies.</item>
+    </string-array>
+    <string-array name="array_7f040035">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040036">
+        <item>Enable updates for all components</item>
+        <item>Disable updates for non-critical components</item>
+    </string-array>
+    <string-array name="array_7f040037">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040038">
+        <item>Allow users to use Touch to Search</item>
+        <item>Prevent users from using Touch to Search</item>
+    </string-array>
+    <string-array name="array_7f040039">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04003a">
+        <item>Keep whitespace for all mime-types</item>
+        <item>Only keep whitespace for text and xml mime-types</item>
+    </string-array>
+    <string-array name="array_7f04003b">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04003c">
+        <item>Enable Data URL support in SVGUseElement.</item>
+        <item>Disable Data URL support in SVGUseElement.</item>
+    </string-array>
+    <string-array name="array_7f04003d">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04003e">
+        <item>Opaque origins for data URLs in Web Workers are enabled (new default behavior)</item>
+        <item>Opaque origins for data URLs in Web Workers are disabled (deprecated legacy behavior)</item>
+    </string-array>
+    <string-array name="array_7f04003f">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040040">
+        <item>Allow sites to download multiple files automatically</item>
+        <item>Do not allow any site to download multiple files automatically</item>
+        <item>Ask whenever a site wants to download multiple files automatically</item>
+    </string-array>
+    <string-array name="array_7f040041">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="array_7f040042">
+        <item>Do not allow any site to use the clipboard site permission</item>
+        <item>Allow sites to ask the user to grant the clipboard site permission</item>
+    </string-array>
+    <string-array name="array_7f040043">
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="array_7f040044">
+        <item>Allow all sites to set local data</item>
+        <item>Do not allow any site to set local data</item>
+        <item>Keep cookies for the duration of the session</item>
+    </string-array>
+    <string-array name="array_7f040045">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="array_7f040046">
+        <item>"Allow sites to track the users' physical location"</item>
+        <item>"Do not allow any site to track the users' physical location"</item>
+        <item>"Ask whenever a site wants to track the users' physical location"</item>
+    </string-array>
+    <string-array name="array_7f040047">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="array_7f040048">
+        <item>Allow sites to detect idle state without asking the user</item>
+        <item>"Do not allow any site to detect the user's idle state"</item>
+        <item>"Ask every time a site wants to detect the user's idle state"</item>
+    </string-array>
+    <string-array name="array_7f040049">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="array_7f04004a">
+        <item>Allow any site to run JavaScript JIT</item>
+        <item>Do not allow any site to run JavaScript JIT</item>
+    </string-array>
+    <string-array name="array_7f04004b">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f04004c">
+        <item>Enable advanced JavaScript optimizations on all sites</item>
+        <item>Disable advanced JavaScript optimizations on all sites</item>
+    </string-array>
+    <string-array name="array_7f04004d">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f04004e">
+        <item>Allow all sites to run JavaScript</item>
+        <item>Do not allow any site to run JavaScript</item>
+    </string-array>
+    <string-array name="array_7f04004f">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f040050">
+        <item>Allow sites to show desktop notifications</item>
+        <item>Do not allow any site to show desktop notifications</item>
+        <item>Ask every time a site wants to show desktop notifications</item>
+    </string-array>
+    <string-array name="array_7f040051">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="array_7f040052">
+        <item>Allow all sites to show pop-ups</item>
+        <item>Do not allow any site to show pop-ups</item>
+    </string-array>
+    <string-array name="array_7f040053">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f040054">
+        <item>Enable the default search provider</item>
+        <item>Disable the default search provider</item>
+        <item>Enable the default search provider and allow users to modify the search provier list</item>
+    </string-array>
+    <string-array name="array_7f040055">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="array_7f040056">
+        <item>Allow sites to access sensors</item>
+        <item>Do not allow any site to access sensors</item>
+        <item>Ask whenever a site wants to access sensors</item>
+    </string-array>
+    <string-array name="array_7f040057">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="array_7f040058">
+        <item>Do not allow any site to request access to serial ports via the Serial API</item>
+        <item>Allow sites to ask the user to grant access to a serial port</item>
+    </string-array>
+    <string-array name="array_7f040059">
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="array_7f04005a">
+        <item>Do not allow any site to request access to Bluetooth devices via the Web Bluetooth API</item>
+        <item>Allow sites to ask the user to grant access to a nearby Bluetooth device</item>
+    </string-array>
+    <string-array name="array_7f04005b">
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="array_7f04005c">
+        <item>Do not allow any site to request access to HID devices via the WebHID API</item>
+        <item>Allow sites to ask the user to grant access to a HID device</item>
+    </string-array>
+    <string-array name="array_7f04005d">
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="array_7f04005e">
+        <item>Do not allow any site to request access to USB devices via the WebUSB API</item>
+        <item>Allow sites to ask the user to grant access to a connected USB device</item>
+    </string-array>
+    <string-array name="array_7f04005f">
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="array_7f040060">
+        <item>Disallow usage of Chrome DevTools on apps and extensions installed by enterprise policy or, since version 114 and if this is a managed user, extensions built into the browser. Allow usage of Chrome DevTools in other contexts</item>
+        <item>Allow usage of Chrome DevTools</item>
+        <item>Disallow usage of Chrome DevTools</item>
+    </string-array>
+    <string-array name="array_7f040061">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f040062">
+        <item>Disable CNAME lookup during Kerberos authentication</item>
+        <item>Use CNAME lookup during Kerberos authentication</item>
+    </string-array>
+    <string-array name="array_7f040063">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040064">
+        <item>Do not allow user to bypass Safe Browsing warning</item>
+        <item>Allow user to bypass Safe Browsing warning</item>
+    </string-array>
+    <string-array name="array_7f040065">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040066">
+        <item>Do not allow users to take screenshots or video recordings</item>
+        <item>Allow users to take screenshots and video recordings</item>
+    </string-array>
+    <string-array name="array_7f040067">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040068">
+        <item>Disable DNS-over-HTTPS</item>
+        <item>Enable DNS-over-HTTPS with insecure fallback</item>
+        <item>Enable DNS-over-HTTPS without insecure fallback</item>
+    </string-array>
+    <string-array name="array_7f040069">
+        <item>off</item>
+        <item>automatic</item>
+        <item>secure</item>
+    </string-array>
+    <string-array name="array_7f04006a">
+        <item>Domain Reliability data may be sent to Google depending on Chrome User Metrics (UMA) policy</item>
+        <item>Never send domain reliability data to Google</item>
+    </string-array>
+    <string-array name="array_7f04006b">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04006c">
+        <item>No special restrictions. Default.</item>
+        <item>Block malicious downloads and dangerous file types.</item>
+        <item>Block malicious downloads, uncommon or unwanted downloads and dangerous file types.</item>
+        <item>Block all downloads.</item>
+        <item>Block malicious downloads. Recommended.</item>
+    </string-array>
+    <string-array name="array_7f04006d">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="array_7f04006e">
+        <item>Enable bookmark editing</item>
+        <item>Disable bookmark editing</item>
+    </string-array>
+    <string-array name="array_7f04006f">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040070">
+        <item>Allow users to use Google Cast</item>
+        <item>Do not allow users to use Google Cast</item>
+    </string-array>
+    <string-array name="array_7f040071">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040072">
+        <item>Enable the TLS Encrypted ClientHello experiment</item>
+        <item>Disable the TLS Encrypted ClientHello experiment</item>
+    </string-array>
+    <string-array name="array_7f040073">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040074">
+        <item>Allow managed extensions to use the Enterprise Hardware Platform API</item>
+        <item>Do not allow managed extensions to use the Enterprise Hardware Platform API</item>
+    </string-array>
+    <string-array name="array_7f040075">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <array name="array_7f040076" />
+    <array name="array_7f040077" />
+    <string-array name="array_7f040078">
+        <item>Extension</item>
+        <item>Theme</item>
+        <item>User script</item>
+        <item>Hosted app</item>
+        <item>Legacy packaged app</item>
+        <item>Platform app</item>
+    </string-array>
+    <string-array name="array_7f040079">
+        <item>extension</item>
+        <item>theme</item>
+        <item>user_script</item>
+        <item>hosted_app</item>
+        <item>legacy_packaged_app</item>
+        <item>platform_app</item>
+    </string-array>
+    <string-array name="array_7f04007a">
+        <item>Allow the usage of developer mode on extensions page</item>
+        <item>Do not allow the usage of developer mode on extensions page</item>
+    </string-array>
+    <string-array name="array_7f04007b">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="array_7f04007c">
+        <item>Enable native extension review prompts and rating links</item>
+        <item>Disable native extension review prompts and rating links</item>
+    </string-array>
+    <string-array name="array_7f04007d">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04007e">
+        <item>Enable in-product surveys</item>
+        <item>Disable in-product surveys</item>
+    </string-array>
+    <string-array name="array_7f04007f">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040080">
+        <item>Allow Chrome Finds and improve AI models.</item>
+        <item>Allow Chrome Finds without improving AI models.</item>
+        <item>Do not allow Chrome Finds.</item>
+    </string-array>
+    <string-array name="array_7f040081">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f040082">
+        <item>Force the use of SafeSearch in Google Search</item>
+        <item>Do not enforce the use of SafeSearch in Google Search</item>
+    </string-array>
+    <string-array name="array_7f040083">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040084">
+        <item>Force unload event handlers to remain enabled by default during deprecation</item>
+        <item>Allow unload event handlers to be disabled by default during deprecation</item>
+    </string-array>
+    <string-array name="array_7f040085">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040086">
+        <item>Do not enforce Restricted Mode on YouTube</item>
+        <item>Enforce at least Moderate Restricted Mode on YouTube</item>
+        <item>Enforce Strict Restricted Mode for YouTube</item>
+    </string-array>
+    <string-array name="array_7f040087">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f040088">
+        <item>Allow the Gemini app to take action on the web pages.</item>
+        <item>Disallow the Gemini app to take action on the web pages.</item>
+    </string-array>
+    <string-array name="array_7f040089">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="array_7f04008a">
+        <item>Allow Gemini integrations.</item>
+        <item>Do not allow Gemini integrations.</item>
+    </string-array>
+    <string-array name="array_7f04008b">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="array_7f04008c">
+        <item>Downloads model automatically</item>
+        <item>Do not download model</item>
+    </string-array>
+    <string-array name="array_7f04008d">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="array_7f04008e">
+        <item>Enable globally scoped HTTP authentication cache</item>
+        <item>Disable globally scoped HTTP authentication cache</item>
+    </string-array>
+    <string-array name="array_7f04008f">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040090">
+        <item>Using the Happy Eyeballs V3 algorithm.</item>
+        <item>Do not use the Happy Eyeballs V3 algorithm.</item>
+        <item>Allow Google Chrome to decide</item>
+    </string-array>
+    <string-array name="array_7f040091">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="array_7f040092">
+        <item>Chrome history page organized into groups will be visible at chrome://history/grouped.</item>
+        <item>Chrome history page organized into groups will not be visible at chrome://history/grouped.</item>
+        <item>Chrome history page organized into groups will be visible at chrome://history/grouped by default.</item>
+    </string-array>
+    <string-array name="array_7f040093">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="array_7f040094">
+        <item>Use New Tab Page as homepage</item>
+        <item>Do not use New Tab Page as homepage</item>
+        <item>Allow users to choose</item>
+    </string-array>
+    <string-array name="array_7f040095">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="array_7f040096">
+        <item>"Do not restrict users' HTTPS-Only Mode setting"</item>
+        <item>Disable HTTPS-Only Mode</item>
+        <item>Enable HTTPS-Only Mode in Strict mode</item>
+        <item>Enable HTTPS-Only Mode in Balanced Mode</item>
+    </string-array>
+    <string-array name="array_7f040097">
+        <item>allowed</item>
+        <item>disallowed</item>
+        <item>force_enabled</item>
+        <item>force_balanced_enabled</item>
+    </string-array>
+    <string-array name="array_7f040098">
+        <item>HTTPS Upgrades may be applied depending on feature launch status.</item>
+        <item>Disable HTTPS Upgrades.</item>
+        <item>HTTPS Upgrades may be applied depending on feature launch status.</item>
+    </string-array>
+    <string-array name="array_7f040099">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="array_7f04009a">
+        <item>Override the IPv6 reachability check. Always query AAAA record for host name resolution.</item>
+        <item>Do not override the IPv6 reachability check. Only query AAAA record for host name resolution when the device is reachable to a global IPv6 host.</item>
+    </string-array>
+    <string-array name="array_7f04009b">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04009c">
+        <item>Incognito mode available</item>
+        <item>Incognito mode disabled</item>
+    </string-array>
+    <string-array name="array_7f04009d">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="array_7f04009e">
+        <item>Force throttling of background JavaScript timers</item>
+        <item>Force no throttling of background JavaScript timers</item>
+        <item>Allow throttling of background JavaScript timers to be controlled by Chrome logic and configured by users</item>
+    </string-array>
+    <string-array name="array_7f04009f">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="array_7f0400a0">
+        <item>Always allow read aloud</item>
+        <item>Never allow read aloud</item>
+    </string-array>
+    <string-array name="array_7f0400a1">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400a2">
+        <item>Allow LNA requests in subframes without explicit delegation</item>
+        <item>Do not allow LNA requests in subframes without explicit delegation</item>
+    </string-array>
+    <string-array name="array_7f0400a3">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400a4">
+        <item>Temporarily opt out of restrictions on requests to local network endpoints</item>
+        <item>Use default behavior when determining if websites can make requests to local network endpoints</item>
+    </string-array>
+    <string-array name="array_7f0400a5">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400a6">
+        <item>Enable reporting of usage and crash-related data</item>
+        <item>Disable reporting of usage and crash-related data</item>
+        <item>Allow users to choose</item>
+    </string-array>
+    <string-array name="array_7f0400a7">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="array_7f0400a8">
+        <item>Show content suggestions on the New Tab page</item>
+        <item>Do not show content suggestions on the New Tab page</item>
+    </string-array>
+    <string-array name="array_7f0400a9">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400aa">
+        <item>Users can customize the New Tab page background</item>
+        <item>Users can not customize the New Tab page background</item>
+    </string-array>
+    <string-array name="array_7f0400ab">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400ac">
+        <item>Predict network actions on any network connection</item>
+        <item>Predict network actions on any network that is not cellular. (Deprecated in 50, removed in 52. After 52, if value 1 is set, it will be treated as 0 - predict network actions on any network connection.)</item>
+        <item>Do not predict network actions on any network connection</item>
+    </string-array>
+    <string-array name="array_7f0400ad">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f0400ae">
+        <item>Turn NTLMv2 on</item>
+        <item>Turn NTLMv2 off</item>
+    </string-array>
+    <string-array name="array_7f0400af">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400b0">
+        <item>System DNS resolution may be run in or out of the network process depending on system configuration and feature flags.</item>
+        <item>System DNS resolution will be run in the network process.</item>
+        <item>System DNS resolution may be run in or out of the network process, or partially in and partially out of the network process, depending on system configuration and feature flags.</item>
+    </string-array>
+    <string-array name="array_7f0400b1">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="array_7f0400b2">
+        <item>Partition Blob URLs during fetching and navigation.</item>
+        <item>Do not partition Blob URLs during fetching and navigation.</item>
+    </string-array>
+    <string-array name="array_7f0400b3">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400b4">
+        <item>Enable password leak detection</item>
+        <item>Disable password leak detection</item>
+        <item>Allow the user to decide</item>
+    </string-array>
+    <string-array name="array_7f0400b5">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="array_7f0400b6">
+        <item>Enable saving passwords using the password manager</item>
+        <item>Disable saving passwords using the password manager</item>
+    </string-array>
+    <string-array name="array_7f0400b7">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400b8">
+        <item>Enable sharing user credentials</item>
+        <item>Disable sharing user credentials</item>
+    </string-array>
+    <string-array name="array_7f0400b9">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400ba">
+        <item>Allow websites to check if the user has payment methods saved</item>
+        <item>Always tell websites that no payment methods are saved</item>
+    </string-array>
+    <string-array name="array_7f0400bb">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400bc">
+        <item>Enable policy atomic groups</item>
+        <item>Disable policy atomic groups</item>
+    </string-array>
+    <string-array name="array_7f0400bd">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400be">
+        <item>Managed user manual exception URLs</item>
+        <item>Power management on the login screen</item>
+        <item>Extension management settings</item>
+        <item>Key Permissions</item>
+        <item>Power management settings when the user becomes idle</item>
+        <item>Screen brightness percent</item>
+        <item>Screen lock delays</item>
+    </string-array>
+    <string-array name="array_7f0400bf">
+        <item>ContentPackManualBehaviorURLs</item>
+        <item>DeviceLoginScreenPowerManagement</item>
+        <item>ExtensionSettings</item>
+        <item>KeyPermissions</item>
+        <item>PowerManagementIdleSettings</item>
+        <item>ScreenBrightnessPercent</item>
+        <item>ScreenLockDelays</item>
+    </string-array>
+    <string-array name="array_7f0400c0">
+        <item>Prefer ciphers satisfying the requirements of CNSA 1.0 and 2.0</item>
+        <item>"Use Google Chrome's default cipher order"</item>
+    </string-array>
+    <string-array name="array_7f0400c1">
+        <item>cnsa</item>
+        <item>default</item>
+    </string-array>
+    <string-array name="array_7f0400c2">
+        <item>Prefer key exchange methods satisfying the requirements of CNSA 2.0</item>
+        <item>"Use Google Chrome's default supported groups"</item>
+    </string-array>
+    <string-array name="array_7f0400c3">
+        <item>cnsa2</item>
+        <item>default</item>
+    </string-array>
+    <string-array name="array_7f0400c4">
+        <item>SpeculationRules prefetch can be sent to ServiceWorker-controlled URLs.</item>
+        <item>SpeculationRules prefetch cannot be sent to ServiceWorker-controlled URLs (legacy behavior).</item>
+    </string-array>
+    <string-array name="array_7f0400c5">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400c6">
+        <item>Enable printing</item>
+        <item>Disable printing</item>
+    </string-array>
+    <string-array name="array_7f0400c7">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400c8">
+        <item>Ask the user where to save the file before downloading</item>
+        <item>Do not ask the user (downloads start immediately)</item>
+        <item>Allow the user to decide</item>
+    </string-array>
+    <string-array name="array_7f0400c9">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="array_7f0400ca">
+        <item>Allow the use of protected content identifiers with sites, which can help enable higher quality of protected content playback.</item>
+        <item>Disable the use of protected content identifiers with sites, which might lead to lower quality of protected content playback.</item>
+    </string-array>
+    <string-array name="array_7f0400cb">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400cc">
+        <item>The QR Code Generator feature is enabled.</item>
+        <item>The QR Code Generator feature is disabled.</item>
+    </string-array>
+    <string-array name="array_7f0400cd">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400ce">
+        <item>Allow use of the remote debugging</item>
+        <item>Do not allow use of the remote debugging</item>
+    </string-array>
+    <string-array name="array_7f0400cf">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400d0">
+        <item>Enabled: Background Fetch from Service Workers is restricted.</item>
+        <item>Disabled: Background Fetch from Service Workers is allowed without restrictions.</item>
+    </string-array>
+    <string-array name="array_7f0400d1">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400d2">
+        <item>Allow users to click through SSL warning pages</item>
+        <item>Prevent users from clicking through SSL warning pages</item>
+    </string-array>
+    <string-array name="array_7f0400d3">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400d4">
+        <item>Safe Browsing is never active.</item>
+        <item>Safe Browsing is active in the standard mode.</item>
+        <item>Safe Browsing is active in the enhanced mode. This mode provides better security, but requires sharing more browsing information with Google.</item>
+    </string-array>
+    <string-array name="array_7f0400d5">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f0400d6">
+        <item>Allow higher-protection proxied lookups</item>
+        <item>"Don't allow higher-protection proxied lookups"</item>
+    </string-array>
+    <string-array name="array_7f0400d7">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400d8">
+        <item>Do not filter sites for adult content</item>
+        <item>Filter sites for adult content</item>
+    </string-array>
+    <string-array name="array_7f0400d9">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="array_7f0400da">
+        <item>Disable saving browser history</item>
+        <item>Enable saving browser history</item>
+    </string-array>
+    <string-array name="array_7f0400db">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400dc">
+        <item>Allow sites to prompt the user to share a video stream of their screen</item>
+        <item>Do not allow sites to prompt the user to share a video stream of their screen</item>
+    </string-array>
+    <string-array name="array_7f0400dd">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400de">
+        <item>Allow sites to scroll to specific text fragments via URL</item>
+        <item>Do not allow sites to scroll to specific text fragments via URL</item>
+    </string-array>
+    <string-array name="array_7f0400df">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400e0">
+        <item>Allow content sharing with Google AI Mode integrations.</item>
+        <item>Do not allow content sharing with Google AI Mode integrations.</item>
+    </string-array>
+    <string-array name="array_7f0400e1">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="array_7f0400e2">
+        <item>Enable search suggestions</item>
+        <item>Disable search suggestions</item>
+        <item>Allow the user to decide</item>
+    </string-array>
+    <string-array name="array_7f0400e3">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="array_7f0400e4">
+        <item>Enable ServiceWorkerAutoPreload</item>
+        <item>Disable ServiceWorkerAutoPreload</item>
+    </string-array>
+    <string-array name="array_7f0400e5">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400e6">
+        <item>ServiceWorker can control srcdoc iframes</item>
+        <item>"ServiceWorker won't control srcdoc iframes"</item>
+    </string-array>
+    <string-array name="array_7f0400e7">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400e8">
+        <item>A blob URL SharedWorker inherits a controller.</item>
+        <item>A blob URL SharedWorker does not inherit a controller. (legacy behavior)</item>
+    </string-array>
+    <string-array name="array_7f0400e9">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400ea">
+        <item>SharedWorkers can have an extended lifetime.</item>
+        <item>SharedWorkers cannot have an extended lifetime.</item>
+    </string-array>
+    <string-array name="array_7f0400eb">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400ec">
+        <item>The shopping list feature will be available to users.</item>
+        <item>The shopping list feature will not be available to users.</item>
+    </string-array>
+    <string-array name="array_7f0400ed">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400ee">
+        <item>Show the Home button on the toolbar</item>
+        <item>Hide the Home button from the toolbar</item>
+        <item>Allow the user to decide</item>
+    </string-array>
+    <string-array name="array_7f0400ef">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="array_7f0400f0">
+        <item>Require site isolation for all websites</item>
+        <item>Disable site isolation for all websites, but allow the user to enable it</item>
+        <item>Allow the user to decide</item>
+    </string-array>
+    <string-array name="array_7f0400f1">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="array_7f0400f2">
+        <item>Enabled: CSS zoom conforms to the standard specification.</item>
+        <item>Disabled: CSS zoom preserves its legacy pre-standard behavior.</item>
+    </string-array>
+    <string-array name="array_7f0400f3">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400f4">
+        <item>Storage quota APIs return static values.</item>
+        <item>Storage quota APIs return dynamic values.</item>
+        <item>Storage quota APIs return values based on feature launch process.</item>
+    </string-array>
+    <string-array name="array_7f0400f5">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="array_7f0400f6">
+        <item>Scripts for workers (Web Workers, Service Workers, etc.) require a JavaScript MIME type, like text/javascript. Worker scripts with legacy MIME types, like text/ascii, will be rejected.</item>
+        <item>Scripts for workers (Web Workers, Service Workers, etc.) use lax MIME type checking. Worker scripts with legacy MIME types, like text/ascii, will work.</item>
+    </string-array>
+    <string-array name="array_7f0400f7">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400f8">
+        <item>Block JavaScript dialogs triggered from a different origin subframe.</item>
+        <item>Allow JavaScript dialogs triggered from a different origin subframe.</item>
+    </string-array>
+    <string-array name="array_7f0400f9">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400fa">
+        <item>Enable the TLS 1.3 Early Data</item>
+        <item>Disable the TLS 1.3 Early Data</item>
+    </string-array>
+    <string-array name="array_7f0400fb">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400fc">
+        <item>Allow 3rd party AI Mode integrations.</item>
+        <item>Do not allow 3rd party AI Mode integrations.</item>
+    </string-array>
+    <string-array name="array_7f0400fd">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="array_7f0400fe">
+        <item>Allow using third-party password manager in Chrome</item>
+        <item>Block switching to a third-party password manager</item>
+    </string-array>
+    <string-array name="array_7f0400ff">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040100">
+        <item>Use default browser behavior, shows the ToS and waits for the user to accept.</item>
+        <item>Automatically skips ToS and loads the browser.</item>
+    </string-array>
+    <string-array name="array_7f040101">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f040102">
+        <item>Always offer translation</item>
+        <item>Never offer translation</item>
+        <item>Allow the user to decide</item>
+    </string-array>
+    <string-array name="array_7f040103">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="array_7f040104">
+        <item>URL-keyed anonymized data collection is always active</item>
+        <item>URL-keyed anonymized data collection is never active</item>
+        <item>Allow the user to decide</item>
+    </string-array>
+    <string-array name="array_7f040105">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="array_7f040106">
+        <item>Allow users to file feedback</item>
+        <item>Prevent users from filing feedback</item>
+    </string-array>
+    <string-array name="array_7f040107">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040108">
+        <item>The default virtual keyboard resize behavior is changed to resize the layout viewport</item>
+        <item>The default virtual keyboard resize behavior is not modified</item>
+    </string-array>
+    <string-array name="array_7f040109">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04010a">
+        <item>Allow WebRTC event log collection from Google services</item>
+        <item>Do not allow WebRTC event log collection from Google services</item>
+    </string-array>
+    <string-array name="array_7f04010b">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04010c">
+        <item>"Allow creating WebXR's \"immersive-ar\" sessions"</item>
+        <item>"Prevent creating WebXR's \"immersive-ar\" sessions"</item>
+    </string-array>
+    <string-array name="array_7f04010d">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04010e">
+        <item>Enabled: XSLT is explicitly enabled.</item>
+        <item>Disabled: XSLT is explicitly disabled.</item>
+        <item>Default: XSLT availability will be determined by browser defaults and field trials.</item>
+    </string-array>
+    <string-array name="array_7f04010f">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="array_7f040115">
+        <item>Pixel 4</item>
+        <item>Pixel 4 XL</item>
+    </string-array>
+    <array name="array_7f040118">
+        <item>@array/array_7f040119</item>
+        <item>@array/array_7f04011a</item>
+    </array>
+    <string-array name="array_7f040119">
+        <item>MIIEqDCCA5CgAwIBAgIJANWFuGx90071MA0GCSqGSIb3DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTAeFw0wODA0MTUyMzM2NTZaFw0zNTA5MDEyMzM2NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBANbOLggKv+IxTdGNs8/TGFy0PTP6DHThvbbR24kT9ixcOd9W+EaBPWW+wPPKQmsHxajtWjmQwWfna8mZuSeJS48LIgAZlKkpFeVyxW0qMBujb8X8ETrWy550NaFtI6t9+u7hZeTfHwqNvacKhp1RbE6dBRGWynwMVX8XW8N1+UjFaq6GCJukT4qmpN2afb8sCjUigq0GuMwYXrFVee74bQgLHWGJwPmvmLHC69EH6kWr22ijx4OKXlSIx2xT1AsSHee70w5iDBiK4aph27yH3TxkXy9V89TDdexAcKk/cVHYNnDBapcavl7y0RiQ4biu8ymM8Ga/nmzhRKya6G0cGw8CAQOjgfwwgfkwHQYDVR0OBBYEFI0cxb6VTEM8YYY6FbBMvAPyT+CyMIHJBgNVHSMEgcEwgb6AFI0cxb6VTEM8YYY6FbBMvAPyT+CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbYIJANWFuGx90071MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEEBQADggEBABnTDPEF+3iSP0wNfdIjIz1AlnrPzgAIHVvXxunW7SBrDhEglQZBbKJEk5kT0mtKoOD1JMrSu1xuTKEBahWRbqHsXclaXjoBADb0kkjVEJu/Lh5hgYZnOjvlba8Ld7HCKePCVePoTJBdI4fvugnL8TsgK05aIskyY0hKI9L8KfqfGTl1lzOv2KoWD0KWwtAWPoGChZxmQ+nBli+gwYMzM1vAkP+aayLe0a1EQimlOalO762r0GXO0ks+UeXde2Z4e+8S/pf7pITEI/tP+MxJTALw9QUWEv9lKTk+jkbqxbsh8nfBUapfKqYn0eidpwq2AzVp3juYl7//fKnaPhJD9gs=</item>
+    </string-array>
+    <string-array name="array_7f04011a">
+        <item>MIIEQzCCAyugAwIBAgIJAMLgh0ZkSjCNMA0GCSqGSIb3DQEBBAUAMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDAeFw0wODA4MjEyMzEzMzRaFw0zNjAxMDcyMzEzMzRaMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBAKtWLgDYO6IIrgqWbxJOKdoR8qtW0I9Y4sypEwPpt1TTcvZApxsdyxMJZ2JORland2qSGT2y5b+3JKkedxiLDmpHpDsz2WCbdxgxRczfey5YZnTJ4VZbH0xqWVW/8lGmPav5xVwnIiJS6HXk+BVKZF+JcWjAsb/GEuq/eFdpuzSqeYTcfi6idkyugwfYwXFU1+5fZKUaRKYCwkkFQVfcAs1fXA5V+++FGfvjJ/CxURaSxaBvGdGDhfXE28LWuT9ozCl5xw4Yq5OGazvV24mZVSoOO0yZ31j7kYvtwYK6NeADwbSxDdJEqO4k//0zOHKrUiGYXtqw/A0LFFtqoZKFjnkCAQOjgdkwgdYwHQYDVR0OBBYEFMd9jMIhF1Ylmn/Tgt9r45jk14alMIGmBgNVHSMEgZ4wgZuAFMd9jMIhF1Ylmn/Tgt9r45jk14aloXikdjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLR29vZ2xlIEluYy4xEDAOBgNVBAsTB0FuZHJvaWQxEDAOBgNVBAMTB0FuZHJvaWSCCQDC4IdGZEowjTAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4IBAQBt0lLO74UwLDYKqs6Tm8/yzKkEu116FmH4rkaymUIE0P9KaMftGlMexFlaYjzmB2OxZyl6euNXEsQH8gjwyxCUKRJNexBiGcCEyj6z+a1fuHHvkiaai+KL8W1EyNmgjmyy8AW7P+LLlkR+ho5zEHatRbM/YAnqGcFh5iZBqpknHf1SKMXFh4dd239FJ1jWYfbMDMy3NS5CTMQ2XFI1MvcyUTdZPErjQfTbQe3aDQsQcafEQPD+nqActifKZ0Np0IS9L9kR/wbNvyz6ENwPiTrjV2KRkEjH78ZMcUQXg0L3BYHJ3lc69Vs5Ddf9uUGGMYldX3WfMBEmh/9iFBDAaTCK</item>
+    </string-array>
+</resources>
