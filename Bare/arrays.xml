@@ -1,1 +1,1213 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_7f040000">
+        <item>允许 AI 模式集成。</item>
+        <item>不允许 AI 模式集成。</item>
+    </string-array>
+    <string-array name="array_7f040001">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="array_7f040002">
+        <item>除 DELETE/GET/HEAD/OPTIONS/POST/PUT 外，不将请求方法转换为大写</item>
+        <item>始终将请求方法转为大写</item>
+    </string-array>
+    <string-array name="array_7f040003">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040004">
+        <item>允许使用无障碍性能过滤。</item>
+        <item>不允许使用无障碍性能过滤功能。</item>
+    </string-array>
+    <string-array name="array_7f040005">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040006">
+        <item>允许其他类型的 DNS 查询</item>
+        <item>阻止其他类型的 DNS 查询</item>
+    </string-array>
+    <string-array name="array_7f040007">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040008">
+        <item>允许在所有网站上显示广告</item>
+        <item>不允许在含侵入性广告的网站上显示广告</item>
+    </string-array>
+    <string-array name="array_7f040009">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f04000a">
+        <item>允许带有 Cache-Control: no-store 响应头的页面存入前进/后退缓存。</item>
+        <item>不允许带有 Cache-Control: no-store 响应头的页面存入前进/后退缓存。</item>
+    </string-array>
+    <string-array name="array_7f04000b">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04000c">
+        <item>允许文件选择对话框</item>
+        <item>阻止文件选择对话框</item>
+    </string-array>
+    <string-array name="array_7f04000d">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04000e">
+        <item>允许代理的套接字池随机化</item>
+        <item>阻止代理的套接字池随机化</item>
+    </string-array>
+    <string-array name="array_7f04000f">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040010">
+        <item>允许在 TLS 证书有问题的网站上发起 WebAuthn API 请求。</item>
+        <item>不允许在 TLS 证书存在问题的网站上发起 WebAuthn API 请求。</item>
+    </string-array>
+    <string-array name="array_7f040011">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040012">
+        <item>启用备用错误页面</item>
+        <item>停用备用错误页面</item>
+        <item>让用户自行决定</item>
+    </string-array>
+    <string-array name="array_7f040013">
+        <item>True</item>
+        <item>False</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="array_7f040014">
+        <item>停用 Microsoft® 云身份验证</item>
+        <item>启用 Microsoft® 云身份验证</item>
+    </string-array>
+    <string-array name="array_7f040015">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="array_7f040016">
+        <item>允许显示应用商店评分推广</item>
+        <item>不允许显示应用商店评分推广</item>
+    </string-array>
+    <string-array name="array_7f040017">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040018">
+        <item>允许自动填充中的生成式 AI 功能，并改进 AI 模型。</item>
+        <item>允许自动填充中的生成式 AI 功能，但不改进 AI 模型。</item>
+        <item>不允许在自动填充中使用生成式 AI 功能。</item>
+    </string-array>
+    <string-array name="array_7f040019">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f04001a">
+        <item>允许 Chrome 自动播放媒体</item>
+        <item>不允许 Chrome 自动播放媒体</item>
+        <item>除非 URL 已在 AutoplayAllowlist 政策中指定，否则不允许 Chrome 自动播放媒体</item>
+    </string-array>
+    <string-array name="array_7f04001b">
+        <item>True</item>
+        <item>False</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="array_7f04001c">
+        <item>允许使用前进/后退缓存</item>
+        <item>不允许使用往返缓存</item>
+    </string-array>
+    <string-array name="array_7f04001d">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04001e">
+        <item>阻止安装外部扩展程序</item>
+        <item>允许安装外部扩展程序</item>
+    </string-array>
+    <string-array name="array_7f04001f">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040020">
+        <item>阻止第三方 Cookie</item>
+        <item>允许第三方 Cookie</item>
+        <item>允许第三方 Cookie，但允许用户更改此设置</item>
+    </string-array>
+    <string-array name="array_7f040021">
+        <item>True</item>
+        <item>False</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="array_7f040022">
+        <item>启用书签栏</item>
+        <item>停用书签栏</item>
+        <item>让用户自行决定</item>
+    </string-array>
+    <string-array name="array_7f040023">
+        <item>True</item>
+        <item>False</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="array_7f040024">
+        <item>停用浏览器登录</item>
+        <item>启用浏览器登录</item>
+        <item>强制用户登录后才能使用浏览器</item>
+    </string-array>
+    <string-array name="array_7f040025">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f040026">
+        <item>始终使用内置 DNS 客户端</item>
+        <item>从不使用内置 DNS 客户端</item>
+        <item>始终使用内置 DNS 客户端</item>
+    </string-array>
+    <string-array name="array_7f040027">
+        <item>True</item>
+        <item>False</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="array_7f040028">
+        <item>从平台信任存储区导入用户添加的 TLS 服务器证书。</item>
+        <item>不从平台信任存储区导入用户添加的 TLS 服务器证书。</item>
+    </string-array>
+    <string-array name="array_7f040029">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04002a">
+        <item>支持 CORS 非通配符请求标头。</item>
+        <item>不支持 CORS 非通配符请求标头。</item>
+    </string-array>
+    <string-array name="array_7f04002b">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04002c">
+        <item>允许使用 Chrome for Testing</item>
+        <item>不允许使用 Chrome for Testing</item>
+    </string-array>
+    <string-array name="array_7f04002d">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04002e">
+        <item>启用所有变体</item>
+        <item>仅启用与关键修复相关的变体</item>
+        <item>停用所有变体</item>
+    </string-array>
+    <string-array name="array_7f04002f">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f040030">
+        <item>云端机器政策优先于平台机器政策</item>
+        <item>平台机器政策优先于云端机器政策</item>
+    </string-array>
+    <string-array name="array_7f040031">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040032">
+        <item>启用用户级云政策的合并。</item>
+        <item>停用用户级云政策的合并。</item>
+    </string-array>
+    <string-array name="array_7f040033">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040034">
+        <item>允许用户云端政策覆盖机器云端政策。</item>
+        <item>阻止用户云端政策覆盖机器云端政策。</item>
+    </string-array>
+    <string-array name="array_7f040035">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040036">
+        <item>为所有组件启用更新</item>
+        <item>停用非关键组件的更新</item>
+    </string-array>
+    <string-array name="array_7f040037">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040038">
+        <item>允许用户使用点按搜索</item>
+        <item>阻止用户使用“触摸搜索”</item>
+    </string-array>
+    <string-array name="array_7f040039">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04003a">
+        <item>为所有 MIME 类型保留空白字符</item>
+        <item>仅对 text 和 xml 类型的 MIME 保留空白</item>
+    </string-array>
+    <string-array name="array_7f04003b">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04003c">
+        <item>启用 SVGUseElement 中的 Data URL 支持。</item>
+        <item>停用 SVGUseElement 中的 Data URL 支持。</item>
+    </string-array>
+    <string-array name="array_7f04003d">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04003e">
+        <item>Web Workers 中 data URL 的不透明来源已启用（新的默认行为）</item>
+        <item>Web Workers 中 data URL 的不透明来源已停用（已弃用的旧版行为）</item>
+    </string-array>
+    <string-array name="array_7f04003f">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040040">
+        <item>允许网站自动下载多个文件</item>
+        <item>不允许任何网站自动下载多个文件</item>
+        <item>每当网站要自动下载多个文件时询问</item>
+    </string-array>
+    <string-array name="array_7f040041">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="array_7f040042">
+        <item>不允许任何网站使用剪贴板网站权限</item>
+        <item>允许网站请求用户授予剪贴板网站权限</item>
+    </string-array>
+    <string-array name="array_7f040043">
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="array_7f040044">
+        <item>允许所有网站设置本地数据</item>
+        <item>不允许任何网站设置本地数据</item>
+        <item>在会话期间保留 Cookie</item>
+    </string-array>
+    <string-array name="array_7f040045">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="array_7f040046">
+        <item>允许网站跟踪用户的物理位置</item>
+        <item>"不允许任何网站跟踪用户的实际位置"</item>
+        <item>"每当网站要跟踪用户的实际位置时询问"</item>
+    </string-array>
+    <string-array name="array_7f040047">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="array_7f040048">
+        <item>允许网站在不询问用户的情况下检测空闲状态</item>
+        <item>"不允许任何网站检测用户的空闲状态"</item>
+        <item>"每当网站要检测用户的空闲状态时询问"</item>
+    </string-array>
+    <string-array name="array_7f040049">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="array_7f04004a">
+        <item>允许任何网站运行 JavaScript JIT</item>
+        <item>不允许任何网站运行 JavaScript JIT</item>
+    </string-array>
+    <string-array name="array_7f04004b">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f04004c">
+        <item>在所有网站上启用高级 JavaScript 优化</item>
+        <item>在所有网站上禁用高级 JavaScript 优化</item>
+    </string-array>
+    <string-array name="array_7f04004d">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f04004e">
+        <item>允许所有网站运行 JavaScript</item>
+        <item>不允许任何网站运行 JavaScript</item>
+    </string-array>
+    <string-array name="array_7f04004f">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f040050">
+        <item>允许网站显示桌面通知</item>
+        <item>不允许任何网站显示桌面通知</item>
+        <item>每当网站要显示桌面通知时询问</item>
+    </string-array>
+    <string-array name="array_7f040051">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="array_7f040052">
+        <item>允许所有网站显示弹窗</item>
+        <item>不允许任何网站显示弹窗</item>
+    </string-array>
+    <string-array name="array_7f040053">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f040054">
+        <item>启用默认搜索引擎</item>
+        <item>停用默认搜索引擎</item>
+        <item>启用默认搜索引擎，并允许用户修改搜索引擎列表</item>
+    </string-array>
+    <string-array name="array_7f040055">
+        <item>True</item>
+        <item>False</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="array_7f040056">
+        <item>允许网站访问传感器</item>
+        <item>不允许任何网站访问传感器</item>
+        <item>网站想要访问传感器时每次询问</item>
+    </string-array>
+    <string-array name="array_7f040057">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="array_7f040058">
+        <item>不允许任何网站通过 Serial API 请求访问串行端口</item>
+        <item>允许网站请求用户授予访问串行端口的权限</item>
+    </string-array>
+    <string-array name="array_7f040059">
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="array_7f04005a">
+        <item>不允许任何网站通过 Web Bluetooth API 请求访问蓝牙设备</item>
+        <item>允许网站请求用户授予访问附近蓝牙设备的权限</item>
+    </string-array>
+    <string-array name="array_7f04005b">
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="array_7f04005c">
+        <item>不允许任何网站通过 WebHID API 请求访问 HID 设备</item>
+        <item>允许网站请求用户授予访问 HID 设备的权限</item>
+    </string-array>
+    <string-array name="array_7f04005d">
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="array_7f04005e">
+        <item>不允许任何网站通过 WebUSB API 请求访问 USB 设备</item>
+        <item>允许网站请求用户授予访问已连接 USB 设备的权限</item>
+    </string-array>
+    <string-array name="array_7f04005f">
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="array_7f040060">
+        <item>禁止通过企业政策安装的应用和扩展程序使用 Chrome DevTools；自 114 版起，对于受管理的用户，还禁止浏览器内置的扩展程序使用。在其他情况下允许使用 Chrome DevTools</item>
+        <item>允许使用 Chrome DevTools</item>
+        <item>禁止使用 Chrome DevTools</item>
+    </string-array>
+    <string-array name="array_7f040061">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f040062">
+        <item>在 Kerberos 身份验证期间禁用 CNAME 查询</item>
+        <item>在 Kerberos 身份验证期间使用 CNAME 查询</item>
+    </string-array>
+    <string-array name="array_7f040063">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040064">
+        <item>不允许用户绕过安全浏览警告</item>
+        <item>允许用户绕过安全浏览警告</item>
+    </string-array>
+    <string-array name="array_7f040065">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040066">
+        <item>不允许用户截屏或录制视频</item>
+        <item>允许用户截屏和录制视频</item>
+    </string-array>
+    <string-array name="array_7f040067">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040068">
+        <item>停用 DNS-over-HTTPS</item>
+        <item>启用不安全的回退 DNS-over-HTTPS</item>
+        <item>启用 DNS-over-HTTPS 且不使用不安全的回退</item>
+    </string-array>
+    <string-array name="array_7f040069">
+        <item>关闭</item>
+        <item>自动</item>
+        <item>安全</item>
+    </string-array>
+    <string-array name="array_7f04006a">
+        <item>根据 Chrome 用户指标（UMA）政策，域名可靠性数据可能会发送给 Google</item>
+        <item>绝不向 Google 发送域可靠性数据</item>
+    </string-array>
+    <string-array name="array_7f04006b">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04006c">
+        <item>无特殊限制。默认。</item>
+        <item>拦截恶意下载和危险文件类型。</item>
+        <item>拦截恶意下载、罕见或不受欢迎的下载以及危险文件类型。</item>
+        <item>阻止所有下载。</item>
+        <item>拦截恶意下载。推荐。</item>
+    </string-array>
+    <string-array name="array_7f04006d">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="array_7f04006e">
+        <item>启用书签编辑</item>
+        <item>停用书签编辑</item>
+    </string-array>
+    <string-array name="array_7f04006f">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040070">
+        <item>允许用户使用 Google Cast</item>
+        <item>不允许用户使用 Google Cast</item>
+    </string-array>
+    <string-array name="array_7f040071">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040072">
+        <item>启用 TLS 加密 ClientHello 实验</item>
+        <item>禁用 TLS 加密 ClientHello 实验</item>
+    </string-array>
+    <string-array name="array_7f040073">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040074">
+        <item>允许受管理的扩展程序使用企业硬件平台 API</item>
+        <item>不允许受管理的扩展程序使用 Enterprise Hardware Platform API</item>
+    </string-array>
+    <string-array name="array_7f040075">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <array name="array_7f040076" />
+    <array name="array_7f040077" />
+    <string-array name="array_7f040078">
+        <item>扩展程序</item>
+        <item>主题</item>
+        <item>用户脚本</item>
+        <item>托管应用</item>
+        <item>旧式打包应用</item>
+        <item>平台应用</item>
+    </string-array>
+    <string-array name="array_7f040079">
+        <item>扩展程序</item>
+        <item>theme</item>
+        <item>user_script</item>
+        <item>hosted_app</item>
+        <item>legacy_packaged_app</item>
+        <item>platform_app</item>
+    </string-array>
+    <string-array name="array_7f04007a">
+        <item>允许在扩展程序页面使用开发者模式</item>
+        <item>不允许在扩展程序页面上使用开发者模式</item>
+    </string-array>
+    <string-array name="array_7f04007b">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="array_7f04007c">
+        <item>启用原生扩展程序评价提示和评分链接</item>
+        <item>停用原生扩展程序评价提示和评分链接</item>
+    </string-array>
+    <string-array name="array_7f04007d">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04007e">
+        <item>启用产品内调查</item>
+        <item>停用产品内调查</item>
+    </string-array>
+    <string-array name="array_7f04007f">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040080">
+        <item>允许 Chrome Finds 并改进 AI 模型。</item>
+        <item>允许使用 Chrome 的查找功能且不改进 AI 模型。</item>
+        <item>不允许使用 Chrome Finds。</item>
+    </string-array>
+    <string-array name="array_7f040081">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f040082">
+        <item>在 Google 搜索中强制启用安全搜索</item>
+        <item>不强制在 Google 搜索中使用安全搜索</item>
+    </string-array>
+    <string-array name="array_7f040083">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040084">
+        <item>在弃用期间强制保持 unload 事件处理程序默认启用</item>
+        <item>在弃用期间允许 unload 事件处理程序默认被禁用</item>
+    </string-array>
+    <string-array name="array_7f040085">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040086">
+        <item>不对 YouTube 强制执行受限模式</item>
+        <item>在 YouTube 上至少强制启用中等受限模式</item>
+        <item>对 YouTube 强制启用严格受限模式</item>
+    </string-array>
+    <string-array name="array_7f040087">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f040088">
+        <item>允许 Gemini 应用对网页执行操作。</item>
+        <item>不允许 Gemini 应用对网页执行操作。</item>
+    </string-array>
+    <string-array name="array_7f040089">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="array_7f04008a">
+        <item>允许 Gemini 集成。</item>
+        <item>不允许 Gemini 集成。</item>
+    </string-array>
+    <string-array name="array_7f04008b">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="array_7f04008c">
+        <item>自动选择下载模型</item>
+        <item>不下载模型</item>
+    </string-array>
+    <string-array name="array_7f04008d">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="array_7f04008e">
+        <item>启用全局范围的 HTTP 身份验证缓存</item>
+        <item>禁用全局范围的 HTTP 身份验证缓存</item>
+    </string-array>
+    <string-array name="array_7f04008f">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040090">
+        <item>正在使用 Happy Eyeballs V3 算法。</item>
+        <item>不使用 Happy Eyeballs V3 算法。</item>
+        <item>让 Google Chrome 自行决定</item>
+    </string-array>
+    <string-array name="array_7f040091">
+        <item>True</item>
+        <item>False</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="array_7f040092">
+        <item>按分组整理的 Chrome 历史记录页面将在 chrome://history/grouped 中显示。</item>
+        <item>按分组整理的 Chrome 历史记录页面将不会在 chrome://history/grouped 中显示。</item>
+        <item>默认情况下，按分组整理的 Chrome 历史记录页面将在 chrome://history/grouped 中显示。</item>
+    </string-array>
+    <string-array name="array_7f040093">
+        <item>True</item>
+        <item>False</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="array_7f040094">
+        <item>将新标签页用作主页</item>
+        <item>不使用新标签页作为主页</item>
+        <item>允许用户自行选择</item>
+    </string-array>
+    <string-array name="array_7f040095">
+        <item>True</item>
+        <item>False</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="array_7f040096">
+        <item>不限制用户的“仅 HTTPS 模式”设置</item>
+        <item>停用仅 HTTPS 模式</item>
+        <item>在严格模式下启用仅 HTTPS 模式</item>
+        <item>在均衡模式下启用仅 HTTPS 模式</item>
+    </string-array>
+    <string-array name="array_7f040097">
+        <item>已允许</item>
+        <item>已禁止</item>
+        <item>force_enabled</item>
+        <item>force_balanced_enabled</item>
+    </string-array>
+    <string-array name="array_7f040098">
+        <item>HTTPS 升级可能会根据功能发布状态启用。</item>
+        <item>停用 HTTPS 升级。</item>
+        <item>HTTPS 升级可能会根据功能发布状态启用。</item>
+    </string-array>
+    <string-array name="array_7f040099">
+        <item>True</item>
+        <item>False</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="array_7f04009a">
+        <item>覆盖 IPv6 可达性检查。主机名解析时始终查询 AAAA 记录。</item>
+        <item>不覆盖 IPv6 可达性检查。仅当设备可连接至全局 IPv6 主机时，才查询 AAAA 记录以解析主机名。</item>
+    </string-array>
+    <string-array name="array_7f04009b">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04009c">
+        <item>无痕模式可用</item>
+        <item>无痕模式已停用</item>
+    </string-array>
+    <string-array name="array_7f04009d">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="array_7f04009e">
+        <item>强制对后台 JavaScript 计时器进行节流</item>
+        <item>强制不对后台 JavaScript 计时器进行节流</item>
+        <item>允许由 Chrome 逻辑控制并可由用户配置后台 JavaScript 计时器的限流</item>
+    </string-array>
+    <string-array name="array_7f04009f">
+        <item>True</item>
+        <item>False</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="array_7f0400a0">
+        <item>始终允许朗读</item>
+        <item>从不允许朗读</item>
+    </string-array>
+    <string-array name="array_7f0400a1">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400a2">
+        <item>允许在未明确授权的情况下于子框架中发起 LNA 请求</item>
+        <item>不允许在未明确授权的情况下于子框架中发起 LNA 请求</item>
+    </string-array>
+    <string-array name="array_7f0400a3">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400a4">
+        <item>暂时退出对本地网络端点请求的限制</item>
+        <item>在判断网站能否向本地网络端点发送请求时使用默认行为</item>
+    </string-array>
+    <string-array name="array_7f0400a5">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400a6">
+        <item>启用上报使用情况和崩溃相关数据</item>
+        <item>禁止上报使用情况和崩溃相关数据</item>
+        <item>允许用户自行选择</item>
+    </string-array>
+    <string-array name="array_7f0400a7">
+        <item>True</item>
+        <item>False</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="array_7f0400a8">
+        <item>在新标签页上显示内容建议</item>
+        <item>不在新标签页上显示内容建议</item>
+    </string-array>
+    <string-array name="array_7f0400a9">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400aa">
+        <item>用户可以自定义新标签页背景</item>
+        <item>用户无法自定义新标签页背景</item>
+    </string-array>
+    <string-array name="array_7f0400ab">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400ac">
+        <item>在任何网络连接上预测网络操作</item>
+        <item>在非蜂窝网络上预测网络操作。（自 50 版起弃用，52 版中移除。52 版之后，如果设为值 1，将被视为 0，即对任何网络连接都预测网络操作。）</item>
+        <item>不在任何网络连接上预测网络操作</item>
+    </string-array>
+    <string-array name="array_7f0400ad">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f0400ae">
+        <item>开启 NTLMv2</item>
+        <item>关闭 NTLMv2</item>
+    </string-array>
+    <string-array name="array_7f0400af">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400b0">
+        <item>系统 DNS 解析可能在网络进程内或网络进程外执行，具体取决于系统配置和功能标志。</item>
+        <item>系统 DNS 解析将在网络进程中运行。</item>
+        <item>根据系统配置和功能标志，系统 DNS 解析可能在网络进程中运行，也可能在网络进程之外运行，或部分在内、部分在外运行。</item>
+    </string-array>
+    <string-array name="array_7f0400b1">
+        <item>True</item>
+        <item>False</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="array_7f0400b2">
+        <item>在获取和导航期间对 Blob 网址进行分区。</item>
+        <item>在获取和导航过程中不对 Blob URL 进行分区。</item>
+    </string-array>
+    <string-array name="array_7f0400b3">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400b4">
+        <item>启用密码泄露检测</item>
+        <item>停用密码泄露检测</item>
+        <item>让用户自行决定</item>
+    </string-array>
+    <string-array name="array_7f0400b5">
+        <item>True</item>
+        <item>False</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="array_7f0400b6">
+        <item>启用使用密码管理器保存密码</item>
+        <item>禁止使用密码管理器保存密码</item>
+    </string-array>
+    <string-array name="array_7f0400b7">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400b8">
+        <item>启用共享用户凭据</item>
+        <item>停用共享用户凭据</item>
+    </string-array>
+    <string-array name="array_7f0400b9">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400ba">
+        <item>允许网站检查用户是否已保存付款方式</item>
+        <item>始终告知网站未保存任何支付方式</item>
+    </string-array>
+    <string-array name="array_7f0400bb">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400bc">
+        <item>启用政策原子组</item>
+        <item>停用政策原子组</item>
+    </string-array>
+    <string-array name="array_7f0400bd">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400be">
+        <item>受管理用户的手动例外网址</item>
+        <item>登录屏幕上的电源管理</item>
+        <item>扩展程序管理设置</item>
+        <item>关键权限</item>
+        <item>用户空闲时的电源管理设置</item>
+        <item>屏幕亮度百分比</item>
+        <item>屏幕锁定延迟</item>
+    </string-array>
+    <string-array name="array_7f0400bf">
+        <item>ContentPackManualBehaviorURLs</item>
+        <item>DeviceLoginScreenPowerManagement</item>
+        <item>ExtensionSettings</item>
+        <item>KeyPermissions</item>
+        <item>PowerManagementIdleSettings</item>
+        <item>ScreenBrightnessPercent</item>
+        <item>ScreenLockDelays</item>
+    </string-array>
+    <string-array name="array_7f0400c0">
+        <item>优先使用满足 CNSA 1.0 和 2.0 要求的加密套件</item>
+        <item>使用 Google Chrome 的默认加密套件顺序</item>
+    </string-array>
+    <string-array name="array_7f0400c1">
+        <item>cnsa</item>
+        <item>默认</item>
+    </string-array>
+    <string-array name="array_7f0400c2">
+        <item>优先使用满足 CNSA 2.0 要求的密钥交换方法</item>
+        <item>使用 Google Chrome 默认支持的群组</item>
+    </string-array>
+    <string-array name="array_7f0400c3">
+        <item>cnsa2</item>
+        <item>默认</item>
+    </string-array>
+    <string-array name="array_7f0400c4">
+        <item>SpeculationRules 预取可以发送到由 ServiceWorker 控制的 URL。</item>
+        <item>SpeculationRules 预取无法发送到由 ServiceWorker 控制的 URL（旧版行为）。</item>
+    </string-array>
+    <string-array name="array_7f0400c5">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400c6">
+        <item>启用打印</item>
+        <item>停用打印</item>
+    </string-array>
+    <string-array name="array_7f0400c7">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400c8">
+        <item>下载前询问用户保存位置</item>
+        <item>不询问用户（下载立即开始）</item>
+        <item>让用户自行决定</item>
+    </string-array>
+    <string-array name="array_7f0400c9">
+        <item>True</item>
+        <item>False</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="array_7f0400ca">
+        <item>允许对网站使用受保护内容标识符，这有助于以更高质量播放受保护内容。</item>
+        <item>禁止网站使用受保护内容标识符，这可能会导致受保护内容的播放质量下降。</item>
+    </string-array>
+    <string-array name="array_7f0400cb">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400cc">
+        <item>二维码生成器功能已启用。</item>
+        <item>二维码生成器功能已停用。</item>
+    </string-array>
+    <string-array name="array_7f0400cd">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400ce">
+        <item>允许使用远程调试</item>
+        <item>不允许使用远程调试</item>
+    </string-array>
+    <string-array name="array_7f0400cf">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400d0">
+        <item>已启用：来自 Service Worker 的 Background Fetch 会受到限制。</item>
+        <item>已禁用：允许 Service Worker 的后台抓取，且不受限制。</item>
+    </string-array>
+    <string-array name="array_7f0400d1">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400d2">
+        <item>允许用户跳过 SSL 警告页面</item>
+        <item>禁止用户跳过 SSL 警告页面</item>
+    </string-array>
+    <string-array name="array_7f0400d3">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400d4">
+        <item>安全浏览从不启用。</item>
+        <item>安全浏览在标准模式下处于启用状态。</item>
+        <item>安全浏览已在增强模式下启用。此模式提供更好的安全性，但需要与 Google 共享更多浏览信息。</item>
+    </string-array>
+    <string-array name="array_7f0400d5">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f0400d6">
+        <item>允许更高保护级别的代理查询</item>
+        <item>不允许受更高保护的代理查询</item>
+    </string-array>
+    <string-array name="array_7f0400d7">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400d8">
+        <item>不过滤成人内容网站</item>
+        <item>对网站进行成人内容过滤</item>
+    </string-array>
+    <string-array name="array_7f0400d9">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="array_7f0400da">
+        <item>停用保存浏览历史记录</item>
+        <item>启用保存浏览历史记录</item>
+    </string-array>
+    <string-array name="array_7f0400db">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400dc">
+        <item>允许网站提示用户共享其屏幕的视频流</item>
+        <item>不允许网站提示用户共享其屏幕的视频流</item>
+    </string-array>
+    <string-array name="array_7f0400dd">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400de">
+        <item>允许网站通过 URL 滚动到特定的文本片段</item>
+        <item>不允许网站通过 URL 滚动到特定的文本片段</item>
+    </string-array>
+    <string-array name="array_7f0400df">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400e0">
+        <item>允许与 Google AI 模式集成共享内容。</item>
+        <item>不允许与 Google AI 模式集成共享内容。</item>
+    </string-array>
+    <string-array name="array_7f0400e1">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="array_7f0400e2">
+        <item>启用搜索建议</item>
+        <item>停用搜索建议</item>
+        <item>让用户自行决定</item>
+    </string-array>
+    <string-array name="array_7f0400e3">
+        <item>True</item>
+        <item>False</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="array_7f0400e4">
+        <item>启用 ServiceWorkerAutoPreload</item>
+        <item>停用 ServiceWorkerAutoPreload</item>
+    </string-array>
+    <string-array name="array_7f0400e5">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400e6">
+        <item>ServiceWorker 可以控制 srcdoc iframe</item>
+        <item>ServiceWorker 不会控制 srcdoc iframe</item>
+    </string-array>
+    <string-array name="array_7f0400e7">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400e8">
+        <item>blob 网址的 SharedWorker 会继承控制器。</item>
+        <item>blob URL 的 SharedWorker 不会继承控制器。（旧版行为）</item>
+    </string-array>
+    <string-array name="array_7f0400e9">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400ea">
+        <item>SharedWorker 可以拥有更长的生命周期。</item>
+        <item>SharedWorker 不能具有延长的生命周期。</item>
+    </string-array>
+    <string-array name="array_7f0400eb">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400ec">
+        <item>用户将可以使用购物清单功能。</item>
+        <item>用户将无法使用购物清单功能。</item>
+    </string-array>
+    <string-array name="array_7f0400ed">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400ee">
+        <item>在工具栏上显示主页按钮</item>
+        <item>从工具栏中隐藏“主页”按钮</item>
+        <item>让用户自行决定</item>
+    </string-array>
+    <string-array name="array_7f0400ef">
+        <item>True</item>
+        <item>False</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="array_7f0400f0">
+        <item>对所有网站要求站点隔离</item>
+        <item>对所有网站停用站点隔离，但允许用户启用</item>
+        <item>让用户自行决定</item>
+    </string-array>
+    <string-array name="array_7f0400f1">
+        <item>True</item>
+        <item>False</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="array_7f0400f2">
+        <item>已启用：CSS 缩放符合标准规范。</item>
+        <item>已禁用：CSS 缩放仍沿用标准制定之前的旧版行为。</item>
+    </string-array>
+    <string-array name="array_7f0400f3">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400f4">
+        <item>存储配额 API 返回静态值。</item>
+        <item>存储配额 API 返回动态值。</item>
+        <item>存储配额 API 依据功能发布流程返回相应值。</item>
+    </string-array>
+    <string-array name="array_7f0400f5">
+        <item>True</item>
+        <item>False</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="array_7f0400f6">
+        <item>工作线程脚本（Web Workers、Service Workers 等）需要 JavaScript MIME 类型，例如 text/javascript。使用 text/ascii 等旧式 MIME 类型的工作线程脚本将被拒绝。</item>
+        <item>工作线程脚本（Web Workers、Service Workers 等）使用宽松的 MIME 类型检查。使用 text/ascii 等旧式 MIME 类型的工作线程脚本仍可正常工作。</item>
+    </string-array>
+    <string-array name="array_7f0400f7">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400f8">
+        <item>阻止由不同源的子框架触发的 JavaScript 对话框。</item>
+        <item>允许由不同源的子框架触发的 JavaScript 对话框。</item>
+    </string-array>
+    <string-array name="array_7f0400f9">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400fa">
+        <item>启用 TLS 1.3 Early Data</item>
+        <item>停用 TLS 1.3 早期数据</item>
+    </string-array>
+    <string-array name="array_7f0400fb">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f0400fc">
+        <item>允许第三方 AI 模式集成。</item>
+        <item>不允许第三方 AI 模式集成。</item>
+    </string-array>
+    <string-array name="array_7f0400fd">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="array_7f0400fe">
+        <item>允许在 Chrome 中使用第三方密码管理器</item>
+        <item>阻止切换到第三方密码管理器</item>
+    </string-array>
+    <string-array name="array_7f0400ff">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040100">
+        <item>使用默认浏览器行为，显示服务条款并等待用户接受。</item>
+        <item>自动跳过 ToS 并加载浏览器。</item>
+    </string-array>
+    <string-array name="array_7f040101">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="array_7f040102">
+        <item>始终提供翻译</item>
+        <item>从不提供翻译</item>
+        <item>让用户自行决定</item>
+    </string-array>
+    <string-array name="array_7f040103">
+        <item>True</item>
+        <item>False</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="array_7f040104">
+        <item>按网址区分的匿名数据收集始终处于启用状态</item>
+        <item>按网址区分的匿名数据收集从不启用</item>
+        <item>让用户自行决定</item>
+    </string-array>
+    <string-array name="array_7f040105">
+        <item>True</item>
+        <item>False</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="array_7f040106">
+        <item>允许用户提交反馈</item>
+        <item>阻止用户提交反馈</item>
+    </string-array>
+    <string-array name="array_7f040107">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f040108">
+        <item>默认的虚拟键盘调整大小行为已改为调整布局视口大小</item>
+        <item>不修改虚拟键盘调整界面大小的默认行为</item>
+    </string-array>
+    <string-array name="array_7f040109">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04010a">
+        <item>允许从 Google 服务收集 WebRTC 事件日志</item>
+        <item>不允许从 Google 服务收集 WebRTC 事件日志</item>
+    </string-array>
+    <string-array name="array_7f04010b">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04010c">
+        <item>允许创建 WebXR 的“immersive-ar”会话</item>
+        <item>禁止创建 WebXR 的“immersive-ar”会话</item>
+    </string-array>
+    <string-array name="array_7f04010d">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="array_7f04010e">
+        <item>已启用：XSLT 已被显式启用。</item>
+        <item>已停用：XSLT 已被明确停用。</item>
+        <item>默认：XSLT 是否可用将由浏览器默认设置和现场试验决定。</item>
+    </string-array>
+    <string-array name="array_7f04010f">
+        <item>True</item>
+        <item>False</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="array_7f040111">
+        <item>@string/string_7f1405c3</item>
+        <item>@string/string_7f1405c0</item>
+        <item>@string/string_7f1405c1</item>
+        <item>@string/string_7f1405c2</item>
+    </string-array>
+    <string-array name="array_7f040112">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="array_7f040117">
+        <item>Pixel 4</item>
+        <item>Pixel 4 XL</item>
+    </string-array>
+    <array name="array_7f04011a">
+        <item>@array/array_7f04011b</item>
+        <item>@array/array_7f04011c</item>
+    </array>
+    <string-array name="array_7f04011b">
+        <item>MIIEqDCCA5CgAwIBAgIJANWFuGx90071MA0GCSqGSIb3DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTAeFw0wODA0MTUyMzM2NTZaFw0zNTA5MDEyMzM2NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBANbOLggKv+IxTdGNs8/TGFy0PTP6DHThvbbR24kT9ixcOd9W+EaBPWW+wPPKQmsHxajtWjmQwWfna8mZuSeJS48LIgAZlKkpFeVyxW0qMBujb8X8ETrWy550NaFtI6t9+u7hZeTfHwqNvacKhp1RbE6dBRGWynwMVX8XW8N1+UjFaq6GCJukT4qmpN2afb8sCjUigq0GuMwYXrFVee74bQgLHWGJwPmvmLHC69EH6kWr22ijx4OKXlSIx2xT1AsSHee70w5iDBiK4aph27yH3TxkXy9V89TDdexAcKk/cVHYNnDBapcavl7y0RiQ4biu8ymM8Ga/nmzhRKya6G0cGw8CAQOjgfwwgfkwHQYDVR0OBBYEFI0cxb6VTEM8YYY6FbBMvAPyT+CyMIHJBgNVHSMEgcEwgb6AFI0cxb6VTEM8YYY6FbBMvAPyT+CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbYIJANWFuGx90071MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEEBQADggEBABnTDPEF+3iSP0wNfdIjIz1AlnrPzgAIHVvXxunW7SBrDhEglQZBbKJEk5kT0mtKoOD1JMrSu1xuTKEBahWRbqHsXclaXjoBADb0kkjVEJu/Lh5hgYZnOjvlba8Ld7HCKePCVePoTJBdI4fvugnL8TsgK05aIskyY0hKI9L8KfqfGTl1lzOv2KoWD0KWwtAWPoGChZxmQ+nBli+gwYMzM1vAkP+aayLe0a1EQimlOalO762r0GXO0ks+UeXde2Z4e+8S/pf7pITEI/tP+MxJTALw9QUWEv9lKTk+jkbqxbsh8nfBUapfKqYn0eidpwq2AzVp3juYl7//fKnaPhJD9gs=</item>
+    </string-array>
+    <string-array name="array_7f04011c">
+        <item>MIIEQzCCAyugAwIBAgIJAMLgh0ZkSjCNMA0GCSqGSIb3DQEBBAUAMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDAeFw0wODA4MjEyMzEzMzRaFw0zNjAxMDcyMzEzMzRaMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBAKtWLgDYO6IIrgqWbxJOKdoR8qtW0I9Y4sypEwPpt1TTcvZApxsdyxMJZ2JORland2qSGT2y5b+3JKkedxiLDmpHpDsz2WCbdxgxRczfey5YZnTJ4VZbH0xqWVW/8lGmPav5xVwnIiJS6HXk+BVKZF+JcWjAsb/GEuq/eFdpuzSqeYTcfi6idkyugwfYwXFU1+5fZKUaRKYCwkkFQVfcAs1fXA5V+++FGfvjJ/CxURaSxaBvGdGDhfXE28LWuT9ozCl5xw4Yq5OGazvV24mZVSoOO0yZ31j7kYvtwYK6NeADwbSxDdJEqO4k//0zOHKrUiGYXtqw/A0LFFtqoZKFjnkCAQOjgdkwgdYwHQYDVR0OBBYEFMd9jMIhF1Ylmn/Tgt9r45jk14alMIGmBgNVHSMEgZ4wgZuAFMd9jMIhF1Ylmn/Tgt9r45jk14aloXikdjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLR29vZ2xlIEluYy4xEDAOBgNVBAsTB0FuZHJvaWQxEDAOBgNVBAMTB0FuZHJvaWSCCQDC4IdGZEowjTAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4IBAQBt0lLO74UwLDYKqs6Tm8/yzKkEu116FmH4rkaymUIE0P9KaMftGlMexFlaYjzmB2OxZyl6euNXEsQH8gjwyxCUKRJNexBiGcCEyj6z+a1fuHHvkiaai+KL8W1EyNmgjmyy8AW7P+LLlkR+ho5zEHatRbM/YAnqGcFh5iZBqpknHf1SKMXFh4dd239FJ1jWYfbMDMy3NS5CTMQ2XFI1MvcyUTdZPErjQfTbQe3aDQsQcafEQPD+nqActifKZ0Np0IS9L9kR/wbNvyz6ENwPiTrjV2KRkEjH78ZMcUQXg0L3BYHJ3lc69Vs5Ddf9uUGGMYldX3WfMBEmh/9iFBDAaTCK</item>
+    </string-array>
+</resources>
